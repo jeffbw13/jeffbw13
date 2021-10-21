@@ -1,5 +1,7 @@
 ### Looking for stuff to do that pays me money
 
+Talented and experienced software engineer
+
 
 <!--
 **jeffbw13/jeffbw13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
